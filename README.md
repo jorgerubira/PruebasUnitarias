@@ -6,4 +6,4 @@ composer require --dev phpunit/phpunit
 
 composer install
 
-php bin/console ./vendor/bin/phpunit
+php ./vendor/bin/phpunit
